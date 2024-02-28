@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #355103;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E9F7EF;
 }
 
 /* Styles for lists in the document */
@@ -48,4 +48,46 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+	color: #355103 !important;
+}
+
+.resume-title {
+	font-size: 50px;
+	font-family: 'Helvetica Neue';
+	color: white;
+}
+
+.tagline {
+	display: inline;
+	color: white;
+	font-family: "Helvetica Neue";
+}
+
+.language-level {
+	border-color: #355103 !important; 
+}
+
+.language-progress {
+	color: darkseagreen !important; 
+}
+
+.body-title {
+	font-family: "Helvetica Neue";
+	color: #355103;
+}
+
+.biography-contents {
+	font-family: "Helvetica Neue";
+}
+
+.biography-details {
+	font-family: "Helvetica Neue";
+}
+
+.skill-item {
+	font-family: "Helvetica Neue";
+}
+
+.language-name {
+	font-family: "Helvetica Neue";
 }

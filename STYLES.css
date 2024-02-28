@@ -7,3 +7,11 @@ body {
 .text {
 	background-color:  dimgray
 }
+
+#p2 {
+	color: blue
+}
+
+.bg-green {
+	background-color: chartreuse;
+}
