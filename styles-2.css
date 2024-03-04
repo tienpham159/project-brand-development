@@ -15,3 +15,11 @@ body {
 .bg-green {
 	background-color: chartreuse;
 }
+
+.stack {
+	display: block
+}
+
+.not-stack {
+	display: inline
+}
