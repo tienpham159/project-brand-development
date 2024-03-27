@@ -53,14 +53,14 @@ body {
 
 .resume-title {
 	font-size: 50px;
-	font-family: 'Helvetica Neue';
+	font-family: "Crimson Pro", serif;
 	color: white;
 }
 
 .tagline {
 	display: inline;
 	color: white;
-	font-family: "Helvetica Neue";
+	font-family: "Crimson Pro", serif;
 }
 
 .language-level {
@@ -72,22 +72,22 @@ body {
 }
 
 .body-title {
-	font-family: "Helvetica Neue";
+	font-family: "Crimson Pro", serif;
 	color: #355103;
 }
 
 .biography-contents {
-	font-family: "Helvetica Neue";
+	font-family: "Crimson Pro", serif;
 }
 
 .biography-details {
-	font-family: "Helvetica Neue";
+	font-family: "Crimson Pro", serif;
 }
 
 .skill-item {
-	font-family: "Helvetica Neue";
+	font-family: "Crimson Pro", serif;
 }
 
 .language-name {
-	font-family: "Helvetica Neue";
+	font-family: "Crimson Pro", serif;
 }
